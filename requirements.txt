@@ -1,0 +1,4 @@
+DJANGO
+
+# PostgreSQLへ接続するためのドライバ
+psycopg2
